@@ -1,16 +1,9 @@
-Features for the QUiz Up clone
+Features for post maker
 
-login
-create quiz
-select a quiz
-play quiz - live (socket.io)
-rematch
-challenge a user
+login feature
 
-User interface
-timer function- 10 seconds
-profile picture
-question display
-answer display
+integrate linkedin, twitter, open ai
 
-score measurement(max score 10, scored = 10 - time elapsed)
+make a post generator
+
+select post cycle/day - 1/day free , more paid
